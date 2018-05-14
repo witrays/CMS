@@ -1,3 +1,5 @@
 .idea/
 .GitHub/
 Vendor/
+wwwroot/Runtime/
+wwwroot/Uploads/
